@@ -1,0 +1,38 @@
+<annotation>
+	<folder>03_TERMOMETRO</folder>
+	<filename>IMG_2252.JPG</filename>
+	<path>C:\Users\Winder Roman\Documents\Tarea Semillero\03_TERMOMETRO\IMG_2252.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>termometro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>566</ymin>
+			<xmax>3747</xmax>
+			<ymax>3611</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>termometro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2308</xmin>
+			<ymin>700</ymin>
+			<xmax>5808</xmax>
+			<ymax>3433</ymax>
+		</bndbox>
+	</object>
+</annotation>
