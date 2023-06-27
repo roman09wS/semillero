@@ -1,0 +1,38 @@
+<annotation>
+	<folder>08_COOKER</folder>
+	<filename>IMG_1967.JPG</filename>
+	<path>C:/Users/SENA/Documents/ADSO/Semillero/01 - Etiquetado de Imagenes/08_COOKER/IMG_1967.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cooker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>1433</ymin>
+			<xmax>4403</xmax>
+			<ymax>3393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cooker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1130</xmin>
+			<ymin>1260</ymin>
+			<xmax>4163</xmax>
+			<ymax>3920</ymax>
+		</bndbox>
+	</object>
+</annotation>

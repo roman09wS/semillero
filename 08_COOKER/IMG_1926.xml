@@ -1,0 +1,38 @@
+<annotation>
+	<folder>08_COOKER</folder>
+	<filename>IMG_1926.JPG</filename>
+	<path>C:/Users/SENA/Documents/ADSO/Semillero/01 - Etiquetado de Imagenes/08_COOKER/IMG_1926.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cooker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2290</xmin>
+			<ymin>347</ymin>
+			<xmax>4197</xmax>
+			<ymax>2027</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cooker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2177</xmin>
+			<ymin>1893</ymin>
+			<xmax>4190</xmax>
+			<ymax>3407</ymax>
+		</bndbox>
+	</object>
+</annotation>
