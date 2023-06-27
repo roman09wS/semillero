@@ -1,0 +1,38 @@
+<annotation>
+	<folder>01_TROQUELADORA DULCES</folder>
+	<filename>IMG_2140.JPG</filename>
+	<path>C:\Users\Winder Roman\Documents\Tarea Semillero\01_TROQUELADORA DULCES\IMG_2140.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>troqueladora_dulces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1458</xmin>
+			<ymin>2044</ymin>
+			<xmax>4458</xmax>
+			<ymax>3827</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>troqueladora_dulces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1836</xmin>
+			<ymin>544</ymin>
+			<xmax>4591</xmax>
+			<ymax>2766</ymax>
+		</bndbox>
+	</object>
+</annotation>
