@@ -1,0 +1,38 @@
+<annotation>
+	<folder>01_TROQUELADORA DULCES</folder>
+	<filename>IMG_2136.JPG</filename>
+	<path>C:\Users\INSTRUCTOR\Documents\01_TROQUELADORA DULCES\IMG_2136.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>troqueladora_dulces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3314</xmin>
+			<ymin>312</ymin>
+			<xmax>5593</xmax>
+			<ymax>3549</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>troqueladora_dulces</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1305</xmin>
+			<ymin>928</ymin>
+			<xmax>4014</xmax>
+			<ymax>3866</ymax>
+		</bndbox>
+	</object>
+</annotation>
